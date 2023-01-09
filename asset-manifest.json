@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.67c3e080.css",
+    "main.js": "/static/js/main.fd1c3559.js",
+    "static/media/bgg.png": "/static/media/bgg.04bc132df26330dc5ea7.png",
+    "static/media/Untitled.png": "/static/media/Untitled.9ff8d9236bc8ea8a8360.png",
+    "static/media/Akira Expanded Demo.otf": "/static/media/Akira Expanded Demo.bcb5d48de1204d45d928.otf",
+    "static/media/opensea-logo.svg": "/static/media/opensea-logo.4bed06781391caba7cd1f020110d0246.svg",
+    "static/media/discord.svg": "/static/media/discord.d0129264e42dede463c762a01520e363.svg",
+    "static/media/twitter-logo.svg": "/static/media/twitter-logo.78361c10b9dcadbc9d3cd4af17e66bc4.svg",
+    "index.html": "/index.html",
+    "main.67c3e080.css.map": "/static/css/main.67c3e080.css.map",
+    "main.fd1c3559.js.map": "/static/js/main.fd1c3559.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67c3e080.css",
+    "static/js/main.fd1c3559.js"
+  ]
+}
